@@ -15,7 +15,7 @@ chrome_options.add_argument(r"ur cgrome profile directory")
 chrome_options.add_argument(r'--profile-directory=Default')
 
 # Set up the ChromeDriver service
-service = Service(r'C:\Users\jhage\OneDrive\Desktop\chromedriver-win64\chromedriver.exe')
+service = Service(r'ur chrrome driver path')
 
 # Initialize the ChromeDriver with options
 driver = webdriver.Chrome(service=service, options=chrome_options)
