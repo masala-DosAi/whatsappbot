@@ -8,10 +8,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 import re
-genai.configure(api_key="AIzaSyAaUZIhZTe_aysg78fj9PJwS9NyaEZBrT0")
+genai.configure(api_key="enter ur api key here")
 # Set up Chrome options
 chrome_options = Options()
-chrome_options.add_argument(r"--user-data-dir=C:\Users\jhage\AppData\Local\Google\Chrome\User Data")
+chrome_options.add_argument(r"ur cgrome profile directory")
 chrome_options.add_argument(r'--profile-directory=Default')
 
 # Set up the ChromeDriver service
