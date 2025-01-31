@@ -36,7 +36,7 @@ while True:
         if unread_chats:
                     for chat in unread_chats:
                         chat.click()  # Click the chat with unread messages
-                        time.sleep(1)  # Allow chat to load
+                        time.sleep(2)  # Allow chat to load
 
                         
 
