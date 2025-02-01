@@ -15,18 +15,17 @@ love=['https://youtu.be/Q04pjPOAVLc?si=fIV13OLin2f4F_2K','https://youtu.be/6yH5S
 
 happy=['https://youtu.be/bw7bVpI5VcM?si=QkUclqXiWIefZ7r0','https://youtu.be/Xf1922kJPfU?si=oXn5QMAhARU0vFtE','https://youtu.be/SS3lIQdKP-A?si=CZnmeGDRz-RGf7yB','https://youtu.be/WuMWwPHTSoY?si=dNljczNo-G74IBb6','https://youtu.be/n0PoVxBMUyE?si=2i2Fg7o7MhfTg6tG','https://youtu.be/IIg8H60bRJo?si=lfcoiP42DTCqlwVC','https://youtu.be/TpMSsbzvRe4?si=s-j2kAe5bCvQ1qz2','https://youtu.be/TpMSsbzvRe4?si=2rFnREjfo9o4KT0s','https://youtu.be/VzLG6OqOcn8?si=TzIsBFW5V-5DpcU7','https://youtu.be/oxO0C0Fj7bc?si=PtOmbGanaxhtEuih','https://youtu.be/M03GOY5eINg?si=AXrc07Qz27gkBXfe','https://youtu.be/zz5KauCbjPI?si=X1Vejc5awjI5t7B7','https://youtu.be/vzlXfZlH5dk?si=Ihvelac9dx0iSSV8','https://youtu.be/3rPEWcY6Oww?si=feNWNICHiIXsghEo','https://youtu.be/k09uvR5eUao?si=HUDrgn5xh6acc65G','https://youtu.be/3nA1hmKCRpE?si=gYNblTNIwJi2ef2M','https://youtu.be/bw7bVpI5VcM?si=DzFkPNA53bf3Z0r3','https://youtu.be/ypXROLupeVg?si=oacrKngVAUajoO5N','https://youtu.be/RKioDWlajvo?si=EEdt6tCFzflchf3v','https://youtu.be/f6vY6tYvKGA?si=Sqe2IbGlXsoQq9xr','https://youtu.be/asYxxtiWUyw?si=c4X7NXj4AUP15csY','https://youtu.be/CTmKrwFu7wg?si=H_8zsW514bhlxpht','https://youtu.be/05TA9jNnCdU?si=XseY921vV6znaNBw','https://youtu.be/nJZcbidTutE?si=OvocnHc-xp93umVE','https://youtu.be/nFgsBxw-zWQ?si=5t05zAk-1bW-M66g','https://youtu.be/8LZgzAZ2lpQ?si=_-1e5FB9j91btR8T','https://youtu.be/II2EO3Nw4m0?si=Y0qiLmi1ARr8fWU5','https://youtu.be/DovUEruZ2q4?si=XFJBXl0JXnXp_yku','https://youtu.be/kZqH9Kfv6BI?si=eTxaZKnYkJSCmuaz','https://youtu.be/sONw3dihCRs?si=h2PerzEWsBleyWDD']
 
-calendar = #
+#calendar = 
 
 
 
-assignment = #
-
-"""
+#assignment = 
+
 flirt=['Do you have a name, or can I just call you \'mine\'?','You\'re so fine, you made me forget my pickup line','Have we met? Because you look exactly like my first love','I never believed in love at first sight, but that\'s before I saw you','Want to go outside for some fresh air? You took my breath away','I bought you a dictionary since you add so much meaning to my life','Are you a Wi-Fi signal? Because I\'m feeling a strong connection with u','I bet your birthday is October 10 because you’re a 10/10','Are you a time traveler? Because I see you in my future','Is your name Google? Because you\'re everything I\'ve been searching for','If you and I were socks, we\'d make a great pair','If I could rearrange the alphabet, I\'d put U and I together','If you were a triangle, you\'d be acute one','Are you a magician? Because when I look at you, everyone else disappears','I\'m not a photographer, but I can definitely picture us together','I\'m not an organ donor, but I\'m ready to give you my heart','On a scale of 1 to 10, you\'re a 9, and I\'m the 1 you need','Are you a camera? Because all I can do is smile when I see you','Did you just come out of an oven? Because you\'re too hot to handle','Did you do something to my eyes? I can\'t seem to take them off you','I think I saw you on Spotify, as the hottest single of the year']
 
 # Set up Chrome options
 chrome_options = Options()
-chrome_options.add_argument(r"user-data-dir=C:/Users/Ruby filename/AppData/Local/Google/Chrome/User Data")
+chrome_options.add_argument(r"user-data-dir=C:/Users/filename/AppData/Local/Google/Chrome/User Data")
 chrome_options.add_argument(r"profile-directory=Profile 4")
 
 # Set up the ChromeDriver service
