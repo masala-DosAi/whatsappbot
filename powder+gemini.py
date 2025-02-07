@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 import re
-genai.configure(api_key="enter ur api key here")
+genai.configure(api_key="enter your api key here")
 # Set up Chrome options
 chrome_options = Options()
 chrome_options.add_argument(r"ur cgrome profile directory")
