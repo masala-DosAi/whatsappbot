@@ -20,13 +20,14 @@ happy=['https://youtu.be/bw7bVpI5VcM?si=QkUclqXiWIefZ7r0','https://youtu.be/Xf19
 
 
 #assignment = 
-
+
+
 flirt=['Do you have a name, or can I just call you \'mine\'?','You\'re so fine, you made me forget my pickup line','Have we met? Because you look exactly like my first love','I never believed in love at first sight, but that\'s before I saw you','Want to go outside for some fresh air? You took my breath away','I bought you a dictionary since you add so much meaning to my life','Are you a Wi-Fi signal? Because I\'m feeling a strong connection with u','I bet your birthday is October 10 because you’re a 10/10','Are you a time traveler? Because I see you in my future','Is your name Google? Because you\'re everything I\'ve been searching for','If you and I were socks, we\'d make a great pair','If I could rearrange the alphabet, I\'d put U and I together','If you were a triangle, you\'d be acute one','Are you a magician? Because when I look at you, everyone else disappears','I\'m not a photographer, but I can definitely picture us together','I\'m not an organ donor, but I\'m ready to give you my heart','On a scale of 1 to 10, you\'re a 9, and I\'m the 1 you need','Are you a camera? Because all I can do is smile when I see you','Did you just come out of an oven? Because you\'re too hot to handle','Did you do something to my eyes? I can\'t seem to take them off you','I think I saw you on Spotify, as the hottest single of the year']
 
 # Set up Chrome options
 chrome_options = Options()
 chrome_options.add_argument(r"user-data-dir=C:/Users/filename/AppData/Local/Google/Chrome/User Data")
-chrome_options.add_argument(r"profile-directory=Profile 4")
+chrome_options.add_argument(r"profile-directory=ur profile")
 
 # Set up the ChromeDriver service
 service = Service(r'C:/Users/username/Desktop/chromedriver.exe')
